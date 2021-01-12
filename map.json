@@ -49,6 +49,14 @@
          "height":34,
          "name":"Web",
          "opacity":1,
+         "properties":
+            {
+             "openWebsite":"radio.sama32.10247.net\/"
+            },
+         "propertytypes":
+            {
+             "openWebsite":"string"
+            },
          "type":"tilelayer",
          "visible":true,
          "width":46,
