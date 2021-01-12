@@ -112,6 +112,10 @@
                 {
                  "collides":true
                 },
+             "34":
+                {
+                 "collides":true
+                },
              "35":
                 {
                  "collides":true
@@ -124,6 +128,10 @@
          "tilepropertytypes":
             {
              "33":
+                {
+                 "collides":"bool"
+                },
+             "34":
                 {
                  "collides":"bool"
                 },
