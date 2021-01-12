@@ -106,6 +106,36 @@
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
+         "tileproperties":
+            {
+             "33":
+                {
+                 "collides":true
+                },
+             "35":
+                {
+                 "collides":true
+                },
+             "36":
+                {
+                 "collides":true
+                }
+            },
+         "tilepropertytypes":
+            {
+             "33":
+                {
+                 "collides":"bool"
+                },
+             "35":
+                {
+                 "collides":"bool"
+                },
+             "36":
+                {
+                 "collides":"bool"
+                }
+            },
          "tilewidth":32
         }],
  "tilewidth":32,
