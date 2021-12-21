@@ -1,0 +1,8 @@
+Options		+Indexes
+#order deny,allow
+#deny from all
+#AuthType Basic
+#AuthName "Please enter Download Password"
+#AuthUserFile /etc/apache2/htpasswd/headsquatter
+#require user z
+#satisfy any
