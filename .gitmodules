@@ -1,0 +1,3 @@
+[submodule "world-tiles"]
+	path = world-tiles
+	url = https://git.cccv.de/rc3/world-tiles.git
