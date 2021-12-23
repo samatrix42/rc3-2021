@@ -305,7 +305,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lounge"
+                 "value":"world:\/\/<lounge>"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -504,19 +504,15 @@
          "imagewidth":64,
          "margin":0,
          "name":"misc_set",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 1.0 Universal"
+                }],
          "spacing":0,
          "tilecount":52,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0 1.0 Universal"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -757,19 +753,15 @@
          "imagewidth":960,
          "margin":0,
          "name":"rc3-2021-mullana-utility",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 1.0 Universal"
+                }],
          "spacing":0,
          "tilecount":1200,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0 1.0 Universal"
-                        }]
-                }],
          "tilewidth":32
         }],
  "tilewidth":32,
