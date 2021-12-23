@@ -133,11 +133,6 @@
          "name":"mapName",
          "type":"string",
          "value":"sAmaTriX Map"
-        }, 
-        {
-         "name":"script",
-         "type":"string",
-         "value":"script-trix.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
