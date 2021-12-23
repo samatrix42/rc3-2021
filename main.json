@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map-trix.json#top"
+                 "value":"map-trix.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -305,7 +305,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"lounge"
+                 "value":"world:\/\/lounge"
                 }],
          "type":"tilelayer",
          "visible":true,
