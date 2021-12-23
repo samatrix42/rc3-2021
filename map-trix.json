@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/<lounge>\/<map>.json"
+                 "value":"world:\/\/lounge\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
