@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.5" tiledversion="1.7.2" name="cija_32x32_expansion for Pipoya_CC0" tilewidth="32" tileheight="32" tilecount="1995" columns="15">
+<tileset version="1.5" tiledversion="1.7.2" name="cija_32x32_expansion for Pipoya_CC0" tilewidth="32" tileheight="32" tilecount="512" columns="8">
  <properties>
   <property name="tilesetCopyright" value="CC0 1.0 Universal"/>
  </properties>
