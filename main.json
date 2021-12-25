@@ -190,7 +190,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"sama-tresen"
+                 "value":"sama-chillout"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -200,7 +200,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Pleeeeeeenum! :: Press SPACE or touch here to enter Jitsi Meet room"
+                 "value":"Chillout Area :: Press SPACE or touch here to enter Jitsi Meet room"
                 }],
          "type":"tilelayer",
          "visible":true,
