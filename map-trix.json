@@ -465,25 +465,6 @@
          "tileheight":32,
          "tiles":[
                 {
-                 "id":72,
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"sama-chillout"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"jitsiTriggerMessage",
-                         "type":"string",
-                         "value":"Chillout Area :: Press SPACE or touch here to enter Jitsi Meet room"
-                        }]
-                }, 
-                {
                  "id":240,
                  "properties":[
                         {
