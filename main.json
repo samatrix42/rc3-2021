@@ -907,7 +907,7 @@
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
-         "name":"free-assange",
+         "name":"freeAssange",
          "properties":[
                 {
                  "name":"tilesetCopyright",
