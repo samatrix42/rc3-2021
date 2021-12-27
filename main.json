@@ -396,6 +396,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"audioVolume",
+                 "type":"float",
+                 "value":0.3
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"sounds\/computer.mp3"
@@ -417,6 +422,11 @@
                  "name":"audioLoop",
                  "type":"bool",
                  "value":true
+                }, 
+                {
+                 "name":"audioVolume",
+                 "type":"float",
+                 "value":0.3
                 }, 
                 {
                  "name":"playAudio",
