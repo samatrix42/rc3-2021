@@ -449,7 +449,7 @@
         {
          "columns":60,
          "firstgid":129,
-         "image":"world-tiles\/rc3-2021\/rc3-2021-mullana-ground.png",
+         "image":"tiles_png\/rc3-2021\/rc3-2021-mullana-ground.png",
          "imageheight":1920,
          "imagewidth":1920,
          "margin":0,
@@ -937,7 +937,7 @@
         {
          "columns":2,
          "firstgid":3729,
-         "image":"world-tiles\/rc3-2021\/worldExit.png",
+         "image":"tiles_png\/rc3-2021\/worldExit.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
