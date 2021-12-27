@@ -344,7 +344,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/isla-nublar.json#start_samatrix"
+                 "value":"world:\/\/lobby\/islanooblar.json#start_samatrix"
                 }],
          "type":"tilelayer",
          "visible":true,
