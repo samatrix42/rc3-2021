@@ -141,7 +141,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby"
+                 "value":"world:\/\/lobby\/islanooblar.json#start_samatrix"
                 }],
          "type":"tilelayer",
          "visible":true,
